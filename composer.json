@@ -1,0 +1,16 @@
+{
+    "name": "chinhnguyendac/mvc",
+    "description": "this is library",
+    "type": "library",
+    "license": "HUSC",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/model/"
+        }
+    },
+    "authors": [{
+        "name": "chinh",
+        "email": "chinh@gmail.com"
+    }],
+    "require": {}
+}
