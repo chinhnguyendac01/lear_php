@@ -2,7 +2,7 @@
     "name": "chinhnguyendac/mvc",
     "description": "this is library",
     "type": "library",
-    "license": "HUSC",
+    "license": "MIT",
     "autoload": {
         "psr-4": {
             "App\\": "src/model/"
