@@ -12,5 +12,7 @@
         "name": "chinh",
         "email": "chinh@gmail.com"
     }],
-    "require": {}
+    "require": {
+        "php": ">=7.4.29"
+    }
 }
